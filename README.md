@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/yw2Arrl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/f7t434S.gif' title='Task Manager' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -34,9 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- Getting the app to start was hard at first as I kept getting unusual errors.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Abakir Hanna]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
